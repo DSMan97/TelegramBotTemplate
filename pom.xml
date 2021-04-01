@@ -47,7 +47,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>TelegramBotTemplate.TelegramBot.Main</mainClass>
+                            <mainClass>TelegramBot.Main</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
